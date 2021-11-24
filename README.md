@@ -3,7 +3,7 @@
 ## Visit Live Site 
 - [LINK](https://potluck082021.vercel.app/)
   
-![image](../assets/../Potluck-U3-FE-20210823/Assets/images/food3.png)
+![image](../assets/../Potluck-U3-FE-20210823/Assets/images/food3.jpg)
 - [Getting Started Poltluck Planner](#getting-started-poltluck-planner)
   - [Visit Live Site](#visit-live-site)
   - [About](#about)
