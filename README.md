@@ -1,5 +1,5 @@
 # Getting Started Poltluck Planner
-![image](../assets/../Potluck-U3-FE-20210823/Assets/images/food3.jpg)
+![image](https://media.istockphoto.com/photos/fried-chicken-feast-picture-id1148926487?b=1&k=20&m=1148926487&s=170667a&w=0&h=4H93kNS9-_qBFWwbcmvB2Jf2D2_0pe5k1qGeo_NHyFw=)
 
 ## Visit Live Site 
 - [LINK](https://potluck082021.vercel.app/)
