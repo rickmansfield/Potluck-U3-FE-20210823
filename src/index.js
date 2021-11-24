@@ -14,8 +14,8 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 import { rootReducer } from "./Reducers";
 
-const theme = 
- {
+const theme =
+{
 
   primaryColor: "#284B63",
   secondaryColor: "#D9D9D9",
